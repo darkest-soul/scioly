@@ -1,11 +1,9 @@
-{
-  "db": [
-    {
-      "source": "Specify the source here",
-      "problem": "Insert question here?",
-      "answer": "Insert answer here.",
-      "image": "https://example.com/image.png",
-      "choices": ["A", "B", "C", "D"]
-    }
-  ]
-}
+[
+  {
+    "category": "Specify the category here",
+    "problem": "Insert question here?",
+    "answer": "Insert answer here.",
+    "image": "https://example.com/image.png",
+    "choices": ["A", "B", "C", "D"]
+  }
+]

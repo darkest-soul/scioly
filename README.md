@@ -23,7 +23,7 @@ This is a community run Science Olympiad api. We are not affiliated nor endorsed
 3. Submit a [pull request](https://github.com/aakhilv/scioly/compare) from your fork's master branch to this repo's master branch.
 4. Once accepted, your problem will start showing up in the [api](https://scioly.js.org/api) within a few days.
 
-# Category codes
+## Category codes
 |Category|Code|
 |---|---|
 |Anatomy and Physiology|`anap`|

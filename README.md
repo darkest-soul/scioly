@@ -9,7 +9,7 @@ This is a community run Science Olympiad api. We are not affiliated nor endorsed
 
 ```json
 {
-  "source": "Specify the source here",
+  "category": "Specify the category here",
   "problem": "Insert question here?",
   "answer": "Insert answer here.",
   "image": "https://example.com/image.png",

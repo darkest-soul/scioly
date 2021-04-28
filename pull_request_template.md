@@ -1,2 +1,2 @@
-- [x] Format complies with the example specified [here](https://github.com/aakhilv/scioly#adding-a-problem-to-the-database).
-- [x] Proper codes used based on the chart [here](https://github.com/aakhilv/scioly#category-codes).
+- [x] I have submitted a problem that complies with the format and requirements specified [here](https://github.com/aakhilv/scioly#adding-a-problem-to-the-database).
+- [x] I have read and agree to the [Terms of Service](https://github.com/aakhilv/scioly#terms-of-service).

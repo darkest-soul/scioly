@@ -35,7 +35,7 @@ Submit a [pull request](https://github.com/aakhilv/scioly/compare) from your for
 
 ### Step 4
 
-Once accepted, your problem will start showing up in the [api](https://scioly.js.org/api) within a few hours.
+Once accepted, your problem will start showing up in the [api](https://scioly.js.org/api) within a few hours. Additionally, please make sure to check the pull request every so often in case we require any changes from your end.
 
 ---
 

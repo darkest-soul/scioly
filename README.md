@@ -10,7 +10,7 @@ This is a community run Science Olympiad api. We are not affiliated nor endorsed
 
 ### Step 1
 
-Fork the [aakhilv/scioly](https://github.com/aakhilv/scioly/fork) master branch.
+Fork the [aakhilv/scioly](https://github.com/aakhilv/scioly/fork) master branch if you haven't already.
 
 ### Step 2
 

@@ -1,0 +1,2 @@
+- [x] Format complies with the example specified [here](https://github.com/aakhilv/scioly#adding-a-problem-to-the-database).
+- [x] Proper codes used based on the chart [here](https://github.com/aakhilv/scioly#category-codes).

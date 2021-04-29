@@ -63,6 +63,21 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Elastic Launched Gliders|`elg`|
 |Mission Impossible|`mi`|
 |Mousetrap Vehicle|`mousetrap`|
+|Experimental Design|`exd`|
+|Game On|`gameon`|
+|Ping Pong Parachute|`pingpong`|
+|Write It Do It|`widi`|
+|Designer Genes|`genes`|
+|Astronomy|`astro`|
+|GeoLogic Mapping|`geo`|
+|Chem Lab|`chem`|
+|Forensics|`forensics`|
+|Protein Modeling|`protein`|
+|Sounds of Music|`music`|
+|Detector Building|`detect`|
+|Gravity Vehicle|`gravity`|
+|Wright Stuff|`wright`|
+|Codebusters|`code`|
 
 ---
 

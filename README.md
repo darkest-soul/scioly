@@ -32,7 +32,7 @@ Add your problem to the [db.json](https://github.com/aakhilv/scioly/blob/main/db
 
 > If the problem is to be a to be a free/written response, do not include the `choices` key.\
 > If the problem is to be a true or false answer, only put two items in the array as `["true", "false"]`.\
-> If the problem is to be a multiple choice answer, include two or more items in the array.\
+> If the problem is to be a multiple choice answer, include two or more items in the array.
 
 ### Step 3
 

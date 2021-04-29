@@ -26,7 +26,7 @@ Add your problem to the [db.json](https://github.com/aakhilv/scioly/blob/main/db
 }
 ```
 
-> The `category` value should be the corresponding code from the chart below.
+> The `category` value should be the corresponding code from the [chart](https://github.com/aakhilv/scioly#category-codes) below.
 
 > Only include the `image` key if the problem you are submitting has an associating image.
 

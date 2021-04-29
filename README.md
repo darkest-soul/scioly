@@ -45,6 +45,24 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Category|Code|
 |---|---|
 |Anatomy and Physiology|`anap`|
+|Disease Detectives|`dd`|
+|Heredity|`heredity`|
+|Ornithology|`orni`|
+|Water Quality|`waqua`|
+|Dynamic Planet|`dp`|
+|Fossils|`fossils`|
+|Meteorology|`meteor`|
+|Reach for the Stars|`rfts`|
+|Road Scholar|`rs`|
+|Circuit Lab|`circuit`|
+|Crime Busters|`crime`|
+|Density Lab|`density`|
+|Food Science|`foodsci`|
+|Machines|`machines`|
+|Boomilever|`boomi`|
+|Elastic Launched Gliders|`elg`|
+|Mission Impossible|`mi`|
+|Mousetrap Vehicle|`mousetrap`|
 
 ---
 

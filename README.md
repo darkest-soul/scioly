@@ -82,3 +82,9 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Gravity Vehicle|`gravity`|
 |Wright Stuff|`wright`|
 |Codebusters|`code`|
+
+---
+
+## Using the api
+
+Coming soon!

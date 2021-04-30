@@ -1,2 +1,1 @@
-- [x] I have submitted a problem that complies with the [format and requirements](https://github.com/aakhilv/scioly#adding-a-problem-to-the-database).
-- [x] I have read and agree to the [Terms of Service](https://github.com/aakhilv/scioly#terms-of-service).
+- [x] Submitted problem(s) complies with the [format and requirements](https://github.com/aakhilv/scioly#adding-a-problem-to-the-database).

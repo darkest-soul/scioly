@@ -4,8 +4,6 @@
 
 This is a community run Science Olympiad api. We are not affiliated nor endorsed by [Science Olympiad Inc.](https://www.soinc.org) in any way.
 
----
-
 ## Adding a problem to the database
 
 ### Step 1

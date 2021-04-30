@@ -42,8 +42,6 @@ Submit a [pull request](https://github.com/aakhilv/scioly/compare) from your for
 
 Once accepted, your problem will start showing up in the [api](https://scioly.js.org/api) within a few hours. Additionally, please make sure to check the pull request every so often in case we require any changes from your end.
 
----
-
 ## Category codes
 
 |Category|Code|
@@ -82,8 +80,6 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Gravity Vehicle|`gravity`|
 |Wright Stuff|`wright`|
 |Codebusters|`code`|
-
----
 
 ## Api endpoints
 

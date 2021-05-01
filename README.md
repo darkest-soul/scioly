@@ -83,68 +83,204 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 
 ### Anatomy and Physiology
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Disease Detectives
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Heredity
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Ornithology
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Water Quality
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Dynamic Planet
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Fossils
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Meteorology
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Reach for the Stars
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Road Scholar
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Circuit Lab
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Crime Busters
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Density Lab
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Food Science
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Machines
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Boomilever
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Elastic Launched Gliders
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Mission Impossible
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Mousetrap Vehicle
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Experimental Design
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Game On
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Ping Pong Parachute
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Write It Do It
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Designer Genes
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Astronomy
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### GeoLogic Mapping
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Chem Lab
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Forensics
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Protein Modeling
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Sounds of Music
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Detector Building
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Gravity Vehicle
+
+```sh
+GET https://scioly.js.org/api/anap
+```
 
 ### Wright Stuff
 
+```sh
+GET https://scioly.js.org/api/anap
+```
+
 ### Codebusters
+
+```sh
+GET https://scioly.js.org/api/anap
+```

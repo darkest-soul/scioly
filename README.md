@@ -62,18 +62,18 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Boomilever|`boomi`|
 |Elastic Launched Gliders|`elg`|
 |Mission Impossible|`mi`|
-|Mousetrap Vehicle|`mousetrap`|
+|Mousetrap Vehicle|`mtv`|
 |Experimental Design|`exd`|
 |Game On|`game`|
 |Ping Pong Parachute|`ppp`|
 |Write It Do It|`widi`|
 |Designer Genes|`genes`|
 |Astronomy|`astro`|
-|GeoLogic Mapping|`geo`|
+|GeoLogic Mapping|`geomap`|
 |Chem Lab|`chem`|
 |Forensics|`forensics`|
 |Protein Modeling|`promod`|
-|Sounds of Music|`som`|
+|Sounds of Music|`music`|
 |Detector Building|`detbuild`|
 |Gravity Vehicle|`gravity`|
 |Wright Stuff|`wright`|

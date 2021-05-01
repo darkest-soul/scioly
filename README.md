@@ -16,7 +16,7 @@ Add your problem to the [db.json](https://github.com/aakhilv/scioly/blob/main/db
 
 ```json
 {
-  "category": "Specify the category here",
+  "category": "Specify the category code here",
   "problem": "Insert question here?",
   "answer": "Insert answer here.",
   "image": "https://example.com/image.png",
@@ -90,197 +90,197 @@ GET https://scioly.js.org/api/anap
 ### Disease Detectives
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/dd
 ```
 
 ### Heredity
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/heredity
 ```
 
 ### Ornithology
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/orni
 ```
 
 ### Water Quality
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/waqua
 ```
 
 ### Dynamic Planet
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/dp
 ```
 
 ### Fossils
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/fossils
 ```
 
 ### Meteorology
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/meteo
 ```
 
 ### Reach for the Stars
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/rfts
 ```
 
 ### Road Scholar
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/road
 ```
 
 ### Circuit Lab
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/circuit
 ```
 
 ### Crime Busters
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/crime
 ```
 
 ### Density Lab
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/density
 ```
 
 ### Food Science
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/foodsci
 ```
 
 ### Machines
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/machines
 ```
 
 ### Boomilever
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/boomi
 ```
 
 ### Elastic Launched Gliders
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/elg
 ```
 
 ### Mission Impossible
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/mi
 ```
 
 ### Mousetrap Vehicle
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/mtv
 ```
 
 ### Experimental Design
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/exd
 ```
 
 ### Game On
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/game
 ```
 
 ### Ping Pong Parachute
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/ppp
 ```
 
 ### Write It Do It
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/widi
 ```
 
 ### Designer Genes
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/genes
 ```
 
 ### Astronomy
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/astro
 ```
 
 ### GeoLogic Mapping
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/geomap
 ```
 
 ### Chem Lab
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/chem
 ```
 
 ### Forensics
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/forensics
 ```
 
 ### Protein Modeling
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/promod
 ```
 
 ### Sounds of Music
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/music
 ```
 
 ### Detector Building
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/detbuild
 ```
 
 ### Gravity Vehicle
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/gravity
 ```
 
 ### Wright Stuff
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/wright
 ```
 
 ### Codebusters
 
 ```sh
-GET https://scioly.js.org/api/anap
+GET https://scioly.js.org/api/code
 ```

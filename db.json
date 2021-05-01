@@ -31,5 +31,17 @@
     "answer": "True",
     "image": "https://user-images.githubusercontent.com/65052071/116787961-c009f500-aa6c-11eb-8ad3-86be7b351887.png",
     "choices": ["True", "False"]
+  },
+  {
+    "category": "anap",
+    "problem": "Hives are called what?",
+    "answer": "Urticaria",
+    "choices": ["Hirsutism", "Urticaria", "Ecchymosis", "Cicatrix"]
+  },
+  {
+    "category": "anap",
+    "problem": "Babies are born with what type of hair?",
+    "answer": "Lanugo",
+    "choices": ["Terminal", "Vellus", "Non-terminal", "Lanugo"]
   }
 ]

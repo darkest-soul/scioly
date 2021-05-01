@@ -47,7 +47,7 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Anatomy and Physiology|`anap`|
 |Disease Detectives|`dd`|
 |Heredity|`heredity`|
-|Ornithology|`ornith`|
+|Ornithology|`orni`|
 |Water Quality|`waqua`|
 |Dynamic Planet|`dp`|
 |Fossils|`fossils`|

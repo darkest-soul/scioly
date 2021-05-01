@@ -12,5 +12,24 @@
     "answer": "Right",
     "image": "https://user-images.githubusercontent.com/65052071/116787794-de232580-aa6b-11eb-9b3c-1964c2b85703.png",
     "choices": ["Left", "Right"]
+  },
+  {
+    "category": "machines",
+    "problem": "What type of simple machine is this?",
+    "answer": "Inclined Plane",
+    "image": "https://user-images.githubusercontent.com/65052071/116787961-c009f500-aa6c-11eb-8ad3-86be7b351887.png"
+  },
+  {
+    "category": "machines",
+    "problem": "What is the IMA of this machine?",
+    "answer": "3",
+    "image": "https://user-images.githubusercontent.com/65052071/116787961-c009f500-aa6c-11eb-8ad3-86be7b351887.png"
+  },
+  {
+    "category": "machines",
+    "problem": "Is the efficiency of this machine greater than 80%?",
+    "answer": "true",
+    "image": "https://user-images.githubusercontent.com/65052071/116787961-c009f500-aa6c-11eb-8ad3-86be7b351887.png",
+    "choices": ["true", "false"]
   }
 ]

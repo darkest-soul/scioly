@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "category": "machines",
+    "problem": "If the box on the left is 1 kg and the box on the right is 2.5 kg, what class lever is this?",
+    "answer": "Class 1",
+    "image": "https://user-images.githubusercontent.com/65052071/116787794-de232580-aa6b-11eb-9b3c-1964c2b85703.png",
+    "choices": ["Class 1", "Class 2", "Class 3", "None of the above"]
+  },
+  {
+    "category": "machines",
+    "problem": "If the box on the left is 1 kg and the box on the right is 2.5 kg and if this lever is not balanced, which box is producing more torque?",
+    "answer": "Right",
+    "image": "https://user-images.githubusercontent.com/65052071/116787794-de232580-aa6b-11eb-9b3c-1964c2b85703.png",
+    "choices": ["Left", "Right"]
+  }
+]

@@ -81,4 +81,70 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 
 ## Api endpoints
 
-Coming soon!
+### Anatomy and Physiology
+
+### Disease Detectives
+
+### Heredity
+
+### Ornithology
+
+### Water Quality
+
+### Dynamic Planet
+
+### Fossils
+
+### Meteorology
+
+### Reach for the Stars
+
+### Road Scholar
+
+### Circuit Lab
+
+### Crime Busters
+
+### Density Lab
+
+### Food Science
+
+### Machines
+
+### Boomilever
+
+### Elastic Launched Gliders
+
+### Mission Impossible
+
+### Mousetrap Vehicle
+
+### Experimental Design
+
+### Game On
+
+### Ping Pong Parachute
+
+### Write It Do It
+
+### Designer Genes
+
+### Astronomy
+
+### GeoLogic Mapping
+
+### Chem Lab
+
+### Forensics
+
+### Protein Modeling
+
+### Sounds of Music
+
+### Detector Building
+
+### Gravity Vehicle
+
+### Wright Stuff
+
+### Codebusters

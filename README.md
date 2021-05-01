@@ -47,13 +47,13 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Anatomy and Physiology|`anap`|
 |Disease Detectives|`dd`|
 |Heredity|`heredity`|
-|Ornithology|`orni`|
+|Ornithology|`ornith`|
 |Water Quality|`waqua`|
 |Dynamic Planet|`dp`|
 |Fossils|`fossils`|
-|Meteorology|`meteor`|
+|Meteorology|`meteo`|
 |Reach for the Stars|`rfts`|
-|Road Scholar|`rs`|
+|Road Scholar|`road`|
 |Circuit Lab|`circuit`|
 |Crime Busters|`crime`|
 |Density Lab|`density`|
@@ -64,17 +64,17 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Mission Impossible|`mi`|
 |Mousetrap Vehicle|`mousetrap`|
 |Experimental Design|`exd`|
-|Game On|`gameon`|
-|Ping Pong Parachute|`pingpong`|
+|Game On|`game`|
+|Ping Pong Parachute|`ppp`|
 |Write It Do It|`widi`|
 |Designer Genes|`genes`|
 |Astronomy|`astro`|
 |GeoLogic Mapping|`geo`|
 |Chem Lab|`chem`|
 |Forensics|`forensics`|
-|Protein Modeling|`protein`|
-|Sounds of Music|`music`|
-|Detector Building|`detect`|
+|Protein Modeling|`promod`|
+|Sounds of Music|`som`|
+|Detector Building|`detbuild`|
 |Gravity Vehicle|`gravity`|
 |Wright Stuff|`wright`|
 |Codebusters|`code`|

@@ -81,6 +81,12 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 
 ## Api endpoints
 
+### All Categories
+
+```sh
+GET https://scioly.js.org/api
+```
+
 ### Anatomy and Physiology
 
 ```sh

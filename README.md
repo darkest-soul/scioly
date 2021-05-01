@@ -61,7 +61,7 @@ Once accepted, your problem will start showing up in the [api](https://scioly.js
 |Machines|`machines`|
 |Boomilever|`boomi`|
 |Elastic Launched Gliders|`elg`|
-|Mission Impossible|`mi`|
+|Mission Possible|`mission`|
 |Mousetrap Vehicle|`mtv`|
 |Experimental Design|`exd`|
 |Game On|`game`|
@@ -189,10 +189,10 @@ GET https://scioly.js.org/api/boomi
 GET https://scioly.js.org/api/elg
 ```
 
-### Mission Impossible
+### Mission Possible
 
 ```
-GET https://scioly.js.org/api/mi
+GET https://scioly.js.org/api/mission
 ```
 
 ### Mousetrap Vehicle
